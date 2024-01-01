@@ -1,6 +1,4 @@
-# Hello, I'm Oleksandr Yanchar <iframe src="https://giphy.com/embed/pNN1wkWBfBhOt4txUP" width="40" height="40" frameBorder="0" class="giphy-embed" ></iframe>
----
-
+# Hello, I'm Oleksandr Yanchar 🙋
 
 
 ![](https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif)
