@@ -1,7 +1,8 @@
 # Hello, I'm Oleksandr Yanchar 🙋
 
-
-![](https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif)
+<p align="center" style="text-align: center;">
+  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="GIF">
+</p>
 
 - 📈 I'm currently learning **[Django](https://www.djangoproject.com/)**
 - ❓ You can ask me about **Python**, **Django**, **Web Development**, **Telegram Development**
