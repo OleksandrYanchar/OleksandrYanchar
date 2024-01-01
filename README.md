@@ -73,7 +73,7 @@
 
 <details>
 <summary>
-<h3 style="display: inline;">⚙️ &nbsp;GitHub Analytics</h3>
+<h3 style="display: inline;">📊 &nbsp;GitHub Analytics</h3>
 </summary>
 
 <p align="center">
