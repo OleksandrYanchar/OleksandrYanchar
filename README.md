@@ -84,7 +84,7 @@
   <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=OleksandrYanchar&&theme=algolia&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OleksandrYanchar&layout=compact&theme=algolia" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OleksandrYanchar&layout=donut&theme=algolia" alt="Top Languages">
 </p>
 
 </details>
