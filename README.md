@@ -14,9 +14,9 @@
 <h3 style="display: inline;">👨‍💻 Some Of My Repositories</h3>
 <div style="margin-left: 20px;">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OleksandrYanchar&repo=lokatir-bot&theme=algolia)](https://github.com/OleksandrYanchar/lokatir-bot)&nbsp;&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OleksandrYanchar&repo=django-quiz-website&theme=algolia)](https://github.com/OleksandrYanchar/django-quiz-website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OleksandrYanchar&repo=lokatir-bot&theme=algolia&hide_border=true)](https://github.com/OleksandrYanchar/lokatir-bot)&nbsp;&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OleksandrYanchar&repo=django-quiz-website&theme=algolia&hide_border=true)](https://github.com/OleksandrYanchar/django-quiz-website)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OleksandrYanchar&repo=Simple-Data-View&theme=algolia)](https://github.com/OleksandrYanchar/Simple-Data-View)&nbsp;&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OleksandrYanchar&repo=Vacancies-Parser-Bot&theme=algolia)](https://github.com/OleksandrYanchar/Vacancies-Parser-Bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OleksandrYanchar&repo=Simple-Data-View&theme=algolia&hide_border=true)](https://github.com/OleksandrYanchar/Simple-Data-View)&nbsp;&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OleksandrYanchar&repo=Vacancies-Parser-Bot&theme=algolia&hide_border=true)](https://github.com/OleksandrYanchar/Vacancies-Parser-Bot)
 </div>
 
 ---
@@ -78,13 +78,13 @@
 </summary>
 
 <p align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=OleksandrYanchar&show_icons=true&theme=algolia" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=OleksandrYanchar&show_icons=true&theme=algolia&hide_border=true" />
 </p>
 <p align="center">
   <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=OleksandrYanchar&&theme=algolia&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OleksandrYanchar&layout=donut&theme=algolia" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OleksandrYanchar&layout=donut&theme=algolia&hide_border=true" alt="Top Languages">
 </p>
 
 </details>
@@ -101,25 +101,19 @@
 
 <p align="center">
   <a href="https://t.me/sodhfhertgihfloj" class="image-container">
-    <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/telegram_logo_icon_147228.png" alt="Telegram" height="128" width="128">
+    <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/telegram_logo_icon_147228.png" alt="Telegram" height="128" width="128">&nbsp;&nbsp;&nbsp;&nbsp;
   </a>
   <a href="https://www.linkedin.com/in/oleksandr-yanchar-b24043289/" class="image-container">
-    <img src="https://cdn.icon-icons.com/icons2/2037/PNG/512/in_linked_linkedin_media_social_icon_124259.png" alt="LinkedIn" height="128" width="128">
+    <img src="https://cdn.icon-icons.com/icons2/2037/PNG/512/in_linked_linkedin_media_social_icon_124259.png" alt="LinkedIn" height="128" width="128">&nbsp;&nbsp;&nbsp;&nbsp;
   </a>
   <a href="https://mail.google.com/mail/u/0/#sent?compose=GTvVlcSBnNRHdWDkfsjxDbxWgvLHLGvqRbcxBLjjgDmptdBnDrfWqFchTkXjvlclXSzFLjsmKkvKj" class="image-container">
-    <img src="https://cdn.icon-icons.com/icons2/272/PNG/512/Email_30017.png" alt="Email" height="128" width="128">
+    <img src="https://cdn.icon-icons.com/icons2/272/PNG/512/Email_30017.png" alt="Email" height="128" width="128">&nbsp;&nbsp;&nbsp;&nbsp;
   </a>
 </p>
 
 </body>
 
 </details>
-<style>
-    /* Add space between images */
-    .image-container {
-      margin-right: 50px; /* Adjust the margin as needed */
-    }
-  </style>
 
 
 
