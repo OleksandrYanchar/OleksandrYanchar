@@ -12,13 +12,14 @@
 ---
 
 <h3 style="display: inline;">👨‍💻 Some Of My Repositories</h3>
+<div style="margin-left: 20px;">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OleksandrYanchar&repo=lokatir-bot&theme=algolia)](https://github.com/OleksandrYanchar/lokatir-bot) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OleksandrYanchar&repo=django-quiz-website&theme=algolia)](https://github.com/OleksandrYanchar/django-quiz-website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OleksandrYanchar&repo=lokatir-bot&theme=algolia)](https://github.com/OleksandrYanchar/lokatir-bot)&nbsp;&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OleksandrYanchar&repo=django-quiz-website&theme=algolia)](https://github.com/OleksandrYanchar/django-quiz-website)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OleksandrYanchar&repo=Simple-Data-View&theme=algolia)](https://github.com/OleksandrYanchar/Simple-Data-View) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OleksandrYanchar&repo=Vacancies-Parser-Bot&theme=algolia)](https://github.com/OleksandrYanchar/Vacancies-Parser-Bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OleksandrYanchar&repo=Simple-Data-View&theme=algolia)](https://github.com/OleksandrYanchar/Simple-Data-View)&nbsp;&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OleksandrYanchar&repo=Vacancies-Parser-Bot&theme=algolia)](https://github.com/OleksandrYanchar/Vacancies-Parser-Bot)
+</div>
 
-
-
+---
 
 
 <br>
