@@ -1,4 +1,5 @@
-# Hello, I'm Oleksandr Yanchar 🙋
+# Hello, I'm Oleksandr Yanchar <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHV5Y2Fzc3B3YXR2OGc0bjMzaWhsd2h1YnFmcXlidnIzZzF1MHM3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGDNsLvqsBOhuU0/giphy.gif" alt="GIF" height="35" width="55">
+</p>
 
 <p align="center" style="text-align: center;">
   <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="GIF">
@@ -9,6 +10,17 @@
 - 🗨️ How to contact me: `contact.oleksandryanchar@gmail.com` [`Telegram`](https://t.me/sodhfhertgihfloj)
 
 ---
+
+<h3 style="display: inline;">👨‍💻 Some Of My Repositories</h3>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OleksandrYanchar&repo=lokatir-bot&theme=algolia)](https://github.com/OleksandrYanchar/lokatir-bot) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OleksandrYanchar&repo=django-quiz-website&theme=algolia)](https://github.com/OleksandrYanchar/django-quiz-website)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OleksandrYanchar&repo=Simple-Data-View&theme=algolia)](https://github.com/OleksandrYanchar/Simple-Data-View) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OleksandrYanchar&repo=Vacancies-Parser-Bot&theme=algolia)](https://github.com/OleksandrYanchar/Vacancies-Parser-Bot)
+
+
+
+
+
 <br>
 <details>
 <summary>
@@ -55,55 +67,58 @@
 
 <br>
 
-<details>
-<summary>
-<h3 style="display: inline;">👨‍💻 Some Of My Repositories</h3>
-</summary>
 
-- [Lokatir Bot](https://github.com/OleksandrYanchar/lokatir-bot)
-
-- [Simple Django Site](https://github.com/OleksandrYanchar/Simple-Data-View)
-- Other are privat at the moment
-
-
-</details>
 
 <br>
 
 <details>
 <summary>
-<h3 style="display: inline;">📊 &nbsp;GitHub Analytics</h3>
+  <h3 style="display: inline;">📊 &nbsp;GitHub Analytics</h3>
 </summary>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=OleksandrYanchar&show_icons=true&theme=solarized_dark&include_all_commits=false&count_private=true&hide_border=true" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=OleksandrYanchar&show_icons=true&theme=algolia" />
 </p>
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OleksandrYanchar&theme=solarized_dark&hide_border=true" />
+  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=OleksandrYanchar&&theme=algolia&hide_border=true" />
 </p>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=OleksandrYanchar&layout=compact&langs_count=10&theme=solarized_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OleksandrYanchar&layout=compact&theme=algolia" alt="Top Languages">
 </p>
-
-![](https://komarev.com/ghpvc/?username=OleksandrYanchar&label=PROFILE+VIEWS)
 
 </details>
 
 
-<h3>🤝🏻 &nbsp;Connect with Me</h3>
+
 <br>
+<details>
+<summary>
+<h3 style="display: inline;">🤝🏻 &nbsp;Connect with Me</h3>
+</summary>
+<body>
+
+
 <p align="center">
-  <a href="https://t.me/sodhfhertgihfloj"><img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/telegram_logo_icon_147228.png" alt="Image Description" height="128" width="128"></a>
-  <a href="https://www.linkedin.com/in/oleksandr-yanchar-b24043289/"><img src="https://cdn.icon-icons.com/icons2/2037/PNG/512/in_linked_linkedin_media_social_icon_124259.png" alt="Image Description" height="128" width="128"></a>
-  <a href="https://mail.google.com/mail/u/0/#sent?compose=GTvVlcSBnNRHdWDkfsjxDbxWgvLHLGvqRbcxBLjjgDmptdBnDrfWqFchTkXjvlclXSzFLjsmKkvKj"><img src="https://cdn.icon-icons.com/icons2/272/PNG/512/Email_30017.png" alt="Image Description" height="128" width="128"></a>
+  <a href="https://t.me/sodhfhertgihfloj" class="image-container">
+    <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/telegram_logo_icon_147228.png" alt="Telegram" height="128" width="128">
+  </a>
+  <a href="https://www.linkedin.com/in/oleksandr-yanchar-b24043289/" class="image-container">
+    <img src="https://cdn.icon-icons.com/icons2/2037/PNG/512/in_linked_linkedin_media_social_icon_124259.png" alt="LinkedIn" height="128" width="128">
+  </a>
+  <a href="https://mail.google.com/mail/u/0/#sent?compose=GTvVlcSBnNRHdWDkfsjxDbxWgvLHLGvqRbcxBLjjgDmptdBnDrfWqFchTkXjvlclXSzFLjsmKkvKj" class="image-container">
+    <img src="https://cdn.icon-icons.com/icons2/272/PNG/512/Email_30017.png" alt="Email" height="128" width="128">
+  </a>
 </p>
 
+</body>
 
-</p>
-
-
-
-
+</details>
+<style>
+    /* Add space between images */
+    .image-container {
+      margin-right: 50px; /* Adjust the margin as needed */
+    }
+  </style>
 
 
 
