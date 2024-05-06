@@ -100,21 +100,17 @@
 
 
 <p align="center">
-  <a href="https://t.me/sodhfhertgihfloj" class="image-container">
+  <a href="https://t.me/youngznig" class="image-container">
     <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/telegram_logo_icon_147228.png" alt="Telegram" height="128" width="128">&nbsp;&nbsp;&nbsp;&nbsp;
   </a>
-  <a href="https://www.linkedin.com/in/oleksandr-yanchar-b24043289/" class="image-container">
+  <a href="https://www.linkedin.com/in/oleksandryanchar/" class="image-container">
     <img src="https://cdn.icon-icons.com/icons2/2037/PNG/512/in_linked_linkedin_media_social_icon_124259.png" alt="LinkedIn" height="128" width="128">&nbsp;&nbsp;&nbsp;&nbsp;
-  </a>
-  <a href="https://mail.google.com/mail/u/0/#sent?compose=GTvVlcSBnNRHdWDkfsjxDbxWgvLHLGvqRbcxBLjjgDmptdBnDrfWqFchTkXjvlclXSzFLjsmKkvKj" class="image-container">
-    <img src="https://cdn.icon-icons.com/icons2/272/PNG/512/Email_30017.png" alt="Email" height="128" width="128">&nbsp;&nbsp;&nbsp;&nbsp;
   </a>
 </p>
 
 </body>
 
 </details>
-
 
 
 
